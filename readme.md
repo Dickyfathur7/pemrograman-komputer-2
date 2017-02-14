@@ -1,9 +1,3 @@
-# REFERENSI
-
-www.javatpoint.com
-
-www.tutorialspoint.com
-
 ## Materi
 
 1. Collection (List, Set, Map, Queue, Stack)
@@ -18,3 +12,9 @@ www.tutorialspoint.com
 10. Cryptography
 11. Pemrograman Serial Communication
 12. Project
+
+## Referensi
+
+www.javatpoint.com
+
+www.tutorialspoint.com
