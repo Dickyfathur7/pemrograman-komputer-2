@@ -11,8 +11,37 @@ public class ContohHashSet {
     set.add(buku1);
     set.add(buku2);
     set.add(buku3);
-    for(Buku data :  set) {
-      System.out.println("Buku : " + data.getJudul());
+    
+    // contoh add
+    System.out.println("Contoh setelah add");
+    for(Object obj : set) {
+      if(obj instanceof Buku) { 
+        Buku data = (Buku) obj;
+        System.out.println("Buku : " + data.getJudul());
+      }
+    }
+
+    buku2.setJudul("Buku 4");
+    set.add(buku2);
+
+    // contoh setelah edit
+    System.out.println("\n\nContoh setelah edit");
+    for(Object obj : set) {
+      if(obj instanceof Buku) {
+        Buku data = (Buku) obj;
+	System.out.println("Buku : " + data.getJudul());
+      }
+    }
+
+    set.remove(buku1);
+
+    // contoh setelah hapus
+    System.out.println("\n\nContoh setelah hapus");
+    for(Object obj : set) {
+      if(obj instanceof Buku) {
+        Buku data = (Buku) obj;
+	System.out.println("Buku : " + data.getJudul());
+      }
     }
   }
 }
