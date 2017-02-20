@@ -24,6 +24,7 @@
    - http://www.javatpoint.com/q/4591/how-to-encrypt-and-decrypt-password-while-storin-db
 11. Pemrograman Serial Communication ? yakin masih pake ini? :
    - https://blog.henrypoon.com/blog/2011/01/01/serial-communication-in-java-with-example-program/
+   - http://rxtx.qbang.org/wiki/index.php/Discovering_available_comm_ports
 12. Project
 
 ## Referensi
