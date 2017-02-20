@@ -22,7 +22,8 @@
    - https://www.ibm.com/developerworks/java/tutorials/j-sec2/j-sec2.html
    - https://www.javacodegeeks.com/2012/12/test-using-cryptography-in-java-applications.html
    - http://www.javatpoint.com/q/4591/how-to-encrypt-and-decrypt-password-while-storin-db
-11. Pemrograman Serial Communication ? yakin masih pake ini?
+11. Pemrograman Serial Communication ? yakin masih pake ini? :
+   - https://blog.henrypoon.com/blog/2011/01/01/serial-communication-in-java-with-example-program/
 12. Project
 
 ## Referensi
