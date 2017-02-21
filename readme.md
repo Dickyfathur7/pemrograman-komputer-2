@@ -1,3 +1,10 @@
+## Target MK
+1. Generic
+2. Multithreading
+3. Serialization
+4. Internet dan Jaringan
+5. Cryptography
+
 ## Materi
 
 1. Collection (List, Set, Map, Queue, Stack) : 
