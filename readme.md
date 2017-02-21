@@ -19,7 +19,9 @@
 4. Serialization :
    - http://www.javatpoint.com/serialization-in-java
    - https://www.tutorialspoint.com/java/java_serialization.htm
-5. Internet dan Jaringan - http://www.javatpoint.com/java-networking
+5. Internet dan Jaringan :
+   - http://www.javatpoint.com/java-networking
+   - https://www.tutorialspoint.com/java/java_networking.htm
 6. Relational Database dan noSQL - :
    - http://www.javatpoint.com/java-jdbc
    - http://www.developer.com/java/data/getting-started-with-mongodb-as-a-java-nosql-solution.html
