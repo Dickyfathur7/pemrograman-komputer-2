@@ -16,7 +16,9 @@
 3. Multithreading - :
    - http://www.javatpoint.com/multithreading-in-java
    - https://www.tutorialspoint.com/java/java_multithreading.htm
-4. Serialization - https://www.tutorialspoint.com/java/java_serialization.htm
+4. Serialization :
+   - http://www.javatpoint.com/serialization-in-java
+   - https://www.tutorialspoint.com/java/java_serialization.htm
 5. Internet dan Jaringan - http://www.javatpoint.com/java-networking
 6. Relational Database dan noSQL - :
    - http://www.javatpoint.com/java-jdbc
