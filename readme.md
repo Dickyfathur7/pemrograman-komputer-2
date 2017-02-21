@@ -1,7 +1,11 @@
 ## Materi
 
-1. Collection (List, Set, Map, Queue, Stack) - http://www.javatpoint.com/collections-in-java
-2. Pemrograman Generic - https://www.tutorialspoint.com//java/java_generics.htm
+1. Collection (List, Set, Map, Queue, Stack) : 
+   - http://www.javatpoint.com/collections-in-java
+   - https://www.tutorialspoint.com/java/java_stack_class.htm
+2. Pemrograman Generic - 
+   - https://www.tutorialspoint.com//java/java_generics.htm
+   - http://www.javatpoint.com/generics-in-java
 3. Multithreading - :
    - http://www.javatpoint.com/multithreading-in-java
    - https://www.tutorialspoint.com/java/java_multithreading.htm
