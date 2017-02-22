@@ -14,13 +14,4 @@ public class ContohSerializationFile {
 		System.out.println("Selesai");
 	}
 
-	static class Mahasiswa implements Serializable {
-		private String nim;
-		private String nama;
-
-		public Mahasiswa(String nim, String nama) {
-			this.nim = nim;
-			this.nama = nama;
-		}
-	}
 }
