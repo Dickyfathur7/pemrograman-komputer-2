@@ -27,6 +27,7 @@
    - http://www.developer.com/java/data/getting-started-with-mongodb-as-a-java-nosql-solution.html
    - https://docs.mongodb.com/manual/introduction/
    - https://ww.tutorialspoint.com/mongodb/mongodb_java.htm
+   - mongodb.github.io/mongo-java-driver/3.4/driver/tutorials/connect-to-mongodb/
 7. Big Data
    - http://www.javatpoint.com/hadoop-tutorial
    - https://www.javacodegeeks.com/2013/04/what-is-big-data-theory-to-implementation.html
