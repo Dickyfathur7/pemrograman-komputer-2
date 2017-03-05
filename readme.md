@@ -31,6 +31,7 @@
 7. Big Data
    - http://www.javatpoint.com/hadoop-tutorial
    - https://www.javacodegeeks.com/2013/04/what-is-big-data-theory-to-implementation.html
+   - https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
 8. Multimedia :
    - https://www.ibm.com/developerworks/java/tutorials/j-jmf/j-jmf.html
    - https://www.java-tips.org/java-se-tips-100019/15-javax-swing/587-make-your-own-java-media-player-to-play-media-files.html
