@@ -32,6 +32,7 @@
    - http://www.javatpoint.com/hadoop-tutorial
    - https://www.javacodegeeks.com/2013/04/what-is-big-data-theory-to-implementation.html
    - https://www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
+   - lebih mudah daripada tutorialspoint.com -> examples.javacodegeeks.com/enterprise-java/apache-hadoop/hadoop-hello-world-example/
 8. Multimedia :
    - https://www.ibm.com/developerworks/java/tutorials/j-jmf/j-jmf.html
    - https://www.java-tips.org/java-se-tips-100019/15-javax-swing/587-make-your-own-java-media-player-to-play-media-files.html
