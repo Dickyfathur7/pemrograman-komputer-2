@@ -1,3 +1,4 @@
+// ambil bahan di www.tutorialspoint.com/hadoop/hadoop_mapreduce.htm
 public class ProcessUnits {
 	
 	/**
