@@ -7,6 +7,7 @@ import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 import javafx.scene.media.MediaPlayer;
 import javafx.scene.media.Media;
+import java.nio.file.Paths;
 
 public class Mp3Player extends Application {
 
@@ -20,7 +21,7 @@ public class Mp3Player extends Application {
 
 	@Override
 	public void start(Stage primaryStage) {
-		Media media = new Media(namaFile);
+		Media media = new Media(Paths.get(namaFile).toUri().toString());
 		final MediaPlayer mediaPlayer = new MediaPlayer(media);
 		isPlay = false;
 
