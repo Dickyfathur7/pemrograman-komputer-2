@@ -5,8 +5,8 @@ public class Contoh02LinkedList {
 		LinkedList list = new LinkedList();
 
 		list.add("Data 1");
-		list.add("Data 2");
 		list.add("Data 3");
+		list.add("Data 5");
 		list.addFirst("Data 4");
 
 		System.out.println("Tambah data");

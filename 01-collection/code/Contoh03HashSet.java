@@ -6,8 +6,8 @@ public class Contoh03HashSet {
 		HashSet data = new HashSet();
 
 		data.add("Data 1");
-		data.add("Data 2");
 		data.add("Data 3");
+		data.add("Data 2");
 
 		// -- cek pendambahan data 
 		System.out.println("Penambahan data: " + data.hashCode());
