@@ -24,8 +24,8 @@ public class WavPlayer {
 
 			clip.open(AudioSystem.getAudioInputStream(file));
 			clip.start();
-			//Double d = clip.getMicrosecondLength() * 0.001;
-			//Thread.sleep(d.intValue() + 10);
+			Double d = clip.getMicrosecondLength() * 0.001;
+			Thread.sleep(d.intValue() + 10);
 			
 			System.out.println("Proses pencetakan teks");
 
