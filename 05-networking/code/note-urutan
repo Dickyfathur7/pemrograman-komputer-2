@@ -1,0 +1,16 @@
+1. MyServer.java
+   MyClient.java
+
+2. MyEchoServer.java
+   MyEchoClient.java
+
+3. MyUrl.java // untuk liat informasi url
+
+4. TestUrlConnection.java // untuk ambil isi html (datanya)
+
+5. TestInet.java // cek informasi network
+
+6. TestHttpUrl.java // untuk ambil informasi header html
+
+7. DPenerima.java
+   DPengirim.java
