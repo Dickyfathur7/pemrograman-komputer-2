@@ -8,6 +8,8 @@ public class ContohKoneksi {
 		try {
 			// langkah 1, register drivernya
 			Class.forName("com.mysql.jdbc.Driver");
+			// untuk Oracle
+			//Class.forName("oracle.jdbc.driver.OracleDriver");
 
 			// langkah 2, buat objek Connection
 			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/phb","tamami","rahasia");
