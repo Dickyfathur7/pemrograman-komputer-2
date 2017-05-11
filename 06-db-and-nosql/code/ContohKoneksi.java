@@ -18,6 +18,8 @@ public class ContohKoneksi {
 			Statement stmt = conn.createStatement();
 
 			// langkah 4, eksekusi query
+			// lebih valid bila pemanggilan kolom jangan menggunakan bintang, tapi didefinisikan.
+			// karena berimbang ke pemanggilan rs.getString(), sebaiknya nanti menggunakan nama kolom, bukan indeks
 			ResultSet rs = stmt.executeQuery("select * from mahasiswa");
 			while(rs.next()) {
 				System.out.println(rs.getString(1) + " : " + rs.getString(2));
